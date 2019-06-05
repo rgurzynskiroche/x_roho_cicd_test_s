@@ -1,0 +1,23 @@
+{
+  "access": "package_private",
+  "active": true,
+  "api_name": "x_roho_cicd_test_s.SI1",
+  "client_callable": false,
+  "description": null,
+  "name": "SI1",
+  "script": {
+    "____see": "sn\\cicd_test_scoped2\\Script Include\\active_true\\x_roho_cicd_test_s.SI1.js"
+  },
+  "sys_class_name": "sys_script_include",
+  "sys_created_by": "sxgurzyr",
+  "sys_created_on": "2019-06-05 12:09:46",
+  "sys_id": "80fae4ae4f31778023ab0ebf0310c731",
+  "sys_mod_count": 0,
+  "sys_name": "SI1",
+  "sys_package": "01ea682a4f31778023ab0ebf0310c765",
+  "sys_policy": "read",
+  "sys_scope": "01ea682a4f31778023ab0ebf0310c765",
+  "sys_update_name": "sys_script_include_80fae4ae4f31778023ab0ebf0310c731",
+  "sys_updated_by": "sxgurzyr",
+  "sys_updated_on": "2019-06-05 12:09:46"
+}
