@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-06-05 12:10:35">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="cicd_test_scoped2">01ea682a4f31778023ab0ebf0310c765</application>
+<application_name>cicd_test_scoped2</application_name>
+<application_scope>x_roho_cicd_test_s</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by CICD Process</description>
+<inserted/>
+<name>cicd_test_scoped2 – 1.0.0</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>5d1b28ae4f31778023ab0ebf0310c76f</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>sxccicd</sys_created_by>
+<sys_created_on>2019-06-05 12:10:34</sys_created_on>
+<sys_id>e62b20aadbbd33002bb3177e16961915</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sxccicd</sys_updated_by>
+<sys_updated_on>2019-06-05 12:10:34</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="cicd_test_scoped2">01ea682a4f31778023ab0ebf0310c765</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_01ea682a4f31778023ab0ebf0310c765</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app"><sys_app action="INSERT_OR_UPDATE"><active>true</active><can_edit_in_studio>false</can_edit_in_studio><enforce_license>none</enforce_license><js_level>helsinki_es5</js_level><licensable>true</licensable><license_category>none</license_category><license_model>none</license_model><logo/><menu/><name>cicd_test_scoped2</name><private>false</private><restrict_table_access>false</restrict_table_access><runtime_access_tracking>permissive</runtime_access_tracking><scope>x_roho_cicd_test_s</scope><scoped_administration>false</scoped_administration><short_description/><source>x_roho_cicd_test_s</source><store_correlation_id/><store_url/><sys_class_name>sys_app</sys_class_name><sys_code/><sys_created_by>sxgurzyr</sys_created_by><sys_created_on>2019-06-05 12:09:24</sys_created_on><sys_id>01ea682a4f31778023ab0ebf0310c765</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>sxgurzyr</sys_updated_by><sys_updated_on>2019-06-05 12:09:24</sys_updated_on><template/><trackable>true</trackable><user_role/><vendor/><vendor_prefix/><version>1.0.0</version></sys_app></record_update>]]></payload>
+<payload_hash>-1813132753</payload_hash>
+<remote_update_set display_value="cicd_test_scoped2 – 1.0.0">e62b20aadbbd33002bb3177e16961915</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>sxccicd</sys_created_by>
+<sys_created_on>2019-06-05 12:10:34</sys_created_on>
+<sys_id>222b20aadbbd33002bb3177e16961916</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16b278bfe490000001</sys_recorded_at>
+<sys_updated_by>sxccicd</sys_updated_by>
+<sys_updated_on>2019-06-05 12:10:34</sys_updated_on>
+<table/>
+<target_name>cicd_test_scoped2</target_name>
+<type>Custom Application</type>
+<update_domain>global</update_domain>
+<update_guid>111b28ae683177807abd5981e5231272</update_guid>
+<update_guid_history>111b28ae683177807abd5981e5231272:-1813132753,05ea64aed9317780299314f0f926ff29:-1813132753</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="cicd_test_scoped2">01ea682a4f31778023ab0ebf0310c765</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_80fae4ae4f31778023ab0ebf0310c731</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;x_roho_cicd_test_s.SI1&lt;/api_name&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;description/&gt;&lt;name&gt;SI1&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var SI1 = Class.create();
+SI1.prototype = {
+    initialize: function() {
+    },
+
+    type: 'SI1'
+};]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;sxgurzyr&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-06-05 12:09:46&lt;/sys_created_on&gt;&lt;sys_id&gt;80fae4ae4f31778023ab0ebf0310c731&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;SI1&lt;/sys_name&gt;&lt;sys_package display_value="cicd_test_scoped2" source="x_roho_cicd_test_s"&gt;01ea682a4f31778023ab0ebf0310c765&lt;/sys_package&gt;&lt;sys_policy&gt;read&lt;/sys_policy&gt;&lt;sys_scope display_value="cicd_test_scoped2"&gt;01ea682a4f31778023ab0ebf0310c765&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_80fae4ae4f31778023ab0ebf0310c731&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;sxgurzyr&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-06-05 12:09:46&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<payload_hash>200618797</payload_hash>
+<remote_update_set display_value="cicd_test_scoped2 – 1.0.0">e62b20aadbbd33002bb3177e16961915</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>sxccicd</sys_created_by>
+<sys_created_on>2019-06-05 12:10:34</sys_created_on>
+<sys_id>2a2b20aadbbd33002bb3177e16961916</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16b278bfe790000001</sys_recorded_at>
+<sys_updated_by>sxccicd</sys_updated_by>
+<sys_updated_on>2019-06-05 12:10:34</sys_updated_on>
+<table/>
+<target_name>SI1</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>991b28ae3c317780021d34fd1c87e473</update_guid>
+<update_guid_history>991b28ae3c317780021d34fd1c87e473:200618797,a2fae4aedd317780ab656d51078dd037:200618797</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
